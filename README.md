@@ -26,8 +26,9 @@ Excel was used to modify and analyze the data of four thousand past Kickstarter 
     
 ## Considerations
 
-   *	Plotting goal amount with pledged amount will give insight to whether the amount of money needed has impact on gaining funding.  
-   *	An anlysis to show the number of projects in canceled, failed, like and successful status per country would help us determine if the location of the project has impact on the success of the project. 
+*	Plotting goal amount with pledged amount will give insight to whether the amount of money needed has impact on gaining funding. 
+
+*	An anlysis to show the number of projects in canceled, failed, like and successful status per country would help us determine if the location of the project has impact on the success of the project. 
 
 
 
