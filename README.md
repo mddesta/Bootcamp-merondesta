@@ -13,7 +13,7 @@ Excel was used to modify and analyze the data of four thousand past Kickstarter 
 
 1. Campaign with Music category are most likely to become successful. It if followed by theatre. Games and food categories are the most likely to fail. 
 
-![Bar graph: Success based on Catagory](https://github.com/mddesta/KickStart-My-Chart/blob/master/Images/Catagory.PNG)
+![Bar graph: Success based on Catagory](https://github.com/mddesta/KickStart-My-Chart/blob/master/Images/Category.PNG)
     
 2. Documentary, classical music, electronic music, hardware, non-fiction, pop, radio &podcast, rock, shorts, table top games, and television subcategories have a 100% track record of success. 
 
